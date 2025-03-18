@@ -7,6 +7,8 @@ This action will create a GitHub release and optionally upload an artifact to it
 >
 > When using, make sure to replace `ncipollo/release-action@v1` with `utomic-media/release-action@main`. We add / sync version tags in the future.
 
+---
+
 <div align="center">
 <strong>
 <samp>
