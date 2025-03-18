@@ -2,6 +2,11 @@
 
 This action will create a GitHub release and optionally upload an artifact to it.
 
+> [!IMPORTANT]  
+> This is a fork of [ncipollo/release-action](https://github.com/ncipollo/release-action)
+>
+> When using, make sure to replace `ncipollo/release-action@v1` with `utomic-media/release-action@master`
+
 <div align="center">
 <strong>
 <samp>
